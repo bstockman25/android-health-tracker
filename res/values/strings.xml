@@ -27,7 +27,7 @@ limitations under the License.
 <string name="bp_error_title">Incorrect Data</string>
 
 <string name="bp_dismiss">Okay</string>
-<string name="food_info">Choose whether to enter calories or diet points, and then enter the amount you ate. Click the button to compute a point value if you don't know it.</string>
+<string name="food_info">Choose whether to enter calories or diet points and then enter the amount you ate. Click the button to compute a point value if you dont know it.</string>
 <string name="calories_label">How much did you eat?</string>
 <string name="points_radio_label">Points</string>
 <string name="compute_points_label">Compute Points</string>
@@ -41,7 +41,8 @@ limitations under the License.
 <string name="weight_label">Weight:</string>
 <string name="weight_info">Enter your weight.</string>
 <string name="bp_title">Blood Pressure</string>
-<string name="bp_save_info">The current time will be recorded with your data when you press 'Save'.</string>
+<string name="bp_save_info">The current time will be recorded with your data when you press Save.</string>
+    <!--string name="bp_save_info">The current time will be recorded with your data when you press 'Save'.</string-->
 <string name="food_title">Food Eaten</string>
 <string name="calories_radio_label">Calories</string>
 <string name="weight_title">Weight Tracker</string>
